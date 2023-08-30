@@ -1,8 +1,8 @@
-# Clips - Share Your Gaming Skills!
+# Clipz - Share Your Gaming Skills!
 
-Clips is a dynamic web application that empowers gamers to showcase their gaming prowess by sharing short video clips of their most impressive gameplay moments. Whether it's that perfect headshot, an incredible in-game maneuver, or a jaw-dropping strategy, Clips provides a platform for gamers to display their skills and learn from others. The app is built with cutting-edge technologies including Angular 15, TailwindCSS, WebAssembly, Rust, and Firebase, ensuring a seamless and immersive experience.
+Clipz is a dynamic web application that empowers gamers to showcase their gaming prowess by sharing short video clips of their most impressive gameplay moments. Whether it's that perfect headshot, an incredible in-game maneuver, or a jaw-dropping strategy, Clipz provides a platform for gamers to display their skills and learn from others. The app is built with cutting-edge technologies including Angular 15, TailwindCSS, WebAssembly, Rust, and Firebase, ensuring a seamless and immersive experience.
 
-![Clips Banner](link-to-your-banner-image)
+![Clipz Banner](link-to-your-banner-image)
 
 ## Features
 
@@ -14,13 +14,13 @@ Clips is a dynamic web application that empowers gamers to showcase their gaming
 
 - **Interactive User Interface:** The intuitive UI built with Angular 15 and TailwindCSS offers a smooth navigation experience for users.
 
-- **Speedy Performance:** Leveraging WebAssembly and Rust, Clips ensures speedy performance, even with high-quality video playback.
+- **Speedy Performance:** Leveraging WebAssembly and Rust, Clipz ensures speedy performance, even with high-quality video playback.
 
-- **Secure and Reliable:** Backed by Firebase, Clips guarantees the security and reliability necessary for an enjoyable user experience.
+- **Secure and Reliable:** Backed by Firebase, Clipz guarantees the security and reliability necessary for an enjoyable user experience.
 
 ## Tech Stack
 
-- **Angular 15**: Leveraging the power of Angular 15, Clips delivers a seamless and responsive user experience. The framework's advanced features ensure smooth navigation and efficient data handling.
+- **Angular 15**: Leveraging the power of Angular 15, Clipz delivers a seamless and responsive user experience. The framework's advanced features ensure smooth navigation and efficient data handling.
 
 - **Tailwind CSS**: The UI is styled using Tailwind CSS, providing a visually appealing and modern design. Tailwind's utility-first approach allows for rapid development and easy customization.
 
@@ -30,12 +30,12 @@ Clips is a dynamic web application that empowers gamers to showcase their gaming
 
 ## Getting Started
 
-To get started with Clips, follow these steps:
+To get started with Clipz, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/Cooldude786/clips.git
-   cd clips
+   git clone https://github.com/Cooldude786/Clipz.git
+   cd Clipz
    ```
 
 2. **Install Dependencies:**
@@ -49,13 +49,13 @@ To get started with Clips, follow these steps:
    ```
 
 4. **Open in Browser:**
-   Open your preferred web browser and navigate to `http://localhost:4200` to access Clips.
+   Open your preferred web browser and navigate to `http://localhost:4200` to access Clipz.
 
 Make sure to configure your Firebase credentials in the project to enable authentication and data storage.
 
 ## Contributions
 
-We welcome contributions from the open-source community to enhance Clips further. Whether you're a frontend developer, a Rust expert, or have ideas to improve user engagement, your contributions are valuable.
+We welcome contributions from the open-source community to enhance Clipz further. Whether you're a frontend developer, a Rust expert, or have ideas to improve user engagement, your contributions are valuable.
 
 1. Fork the repository and create a new branch.
 2. Make your changes and enhancements.
@@ -65,8 +65,8 @@ We welcome contributions from the open-source community to enhance Clips further
 
 If you have any questions, suggestions, or feedback, don't hesitate to reach out to me at [patelbhargav384@gmail.com](mailto:patelbhargav384@gmail.com).
 
-Let's elevate gaming skills together with Clips! 🎮📹🚀
+Let's elevate gaming skills together with Clipz! 🎮📹🚀
 
 ## Join the Community
 
-Get ready to elevate your gaming skills and share your best moments with Clips. Happy gaming!
+Get ready to elevate your gaming skills and share your best moments with Clipz. Happy gaming!
