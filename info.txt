@@ -1,0 +1,18 @@
+Angular version used = 15.2.0
+
+
+1) ngx-mask:
+https://www.npmjs.com/package/ngx-mask
+
+2) AngularFire SDK:
+https://firebaseopensource.com/projects/angular/angularfire2/
+
+3) Firebase Web setup: (It provides js functions to work with firebase but for our case firebase team provide a package called angular fire to use firebase in angular)
+https://firebase.google.com/docs/web/setup
+
+
+=> Documentation for AnfularFire
+https://github.com/IdanCo/angularfire2/blob/master/docs/install-and-setup.md
+
+=> Firebase Documentation for developer
+https://firebase.google.com/docs/samples
