@@ -30,7 +30,7 @@ export class RegisterComponent {
     ], [this.emailTaken.validate]),
     age: new FormControl<number | null>(null, [
       Validators.required,
-      Validators.min(18),
+      Validators.min(12),
       Validators.max(120)
     ]),
     password: new FormControl('', [
