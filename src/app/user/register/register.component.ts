@@ -53,13 +53,10 @@ export class RegisterComponent {
     this.alertColor = 'blue'
     this.inSubmission = true
 
-    const { email, password } = this.registerForm.value
-
     try {
-      this.authService.createUser(this.registerForm.value as IUser)
+      await this.authService.createUser(this.registerForm.value as IUser)
     } catch(e: any) {
       console.log("Error >>> ", e);
-
       this.alertMsg = 'An unexpected error occurred. Please try again.'
       this.alertColor = 'red'
       this.inSubmission = false
