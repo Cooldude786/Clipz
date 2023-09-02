@@ -11,7 +11,7 @@ export class ClipService {
     this.clipsCollection = db.collection('clips')
   }
 
-  createClip(data: IClip): Promise<DocumentReference<IClip>> {
-    return this.clipsCollection.add(data)
+  async createClip(data: IClip): Promise<DocumentReference<IClip>> {
+    return await this.clipsCollection.add(data)
   }
 }
