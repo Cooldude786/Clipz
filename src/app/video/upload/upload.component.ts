@@ -113,6 +113,8 @@ export class UploadComponent implements OnDestroy {
   }
 
   ngOnDestroy(): void {
+    // Cancelling file upload if the user switch from the page or close the browser.
+    // "Cancel()" Fn is provided by the Angular Firestore module.
     this.task?.cancel()
   }
 }
